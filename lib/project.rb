@@ -15,3 +15,5 @@ class Project
     backer.back_project(self) if !backers.include?(backer)
   end
 end
+
+game = Project.new("Game")
