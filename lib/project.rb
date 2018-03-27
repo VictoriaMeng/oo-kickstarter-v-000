@@ -1,3 +1,6 @@
+require 'pry'
+require 'project.rb'
+
 class Project
   attr_accessor :title
   attr_reader :backers
