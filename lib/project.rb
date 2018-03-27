@@ -18,3 +18,4 @@ end
 
 game = Project.new("Game")
 game.add_backer(Backer.new("Me"))
+game
