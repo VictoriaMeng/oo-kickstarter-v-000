@@ -1,5 +1,5 @@
 require 'pry'
-require 'project.rb'
+require_relative 'project.rb'
 
 class Project
   attr_accessor :title
